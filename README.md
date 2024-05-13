@@ -16,3 +16,6 @@ This chat bot leverages OpenAI, Lanchain, and Streamlit technologies to scrape i
 - **Secure Transactions**: Ensures data security and integrity through Lanchain integration.
 
 This tool is designed to enhance the workflow of research analysts in the financial sector, providing them with the necessary resources and insights to make informed decisions.
+
+## Dashboard:
+<img src="Dashboard.png">
