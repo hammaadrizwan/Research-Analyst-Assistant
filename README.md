@@ -1,6 +1,6 @@
 # Research Analyst Assistant
 
-This chat bot leverages OpenAI, Lanchain, and Streamlit technologies to scrape information from financial websites and provide expert analysis on equity and stocks. 
+This chat bot leverages OpenAI, Langhain, and Streamlit technologies to scrape information from financial websites and provide expert analysis on equity and stocks. 
 
 ## Features:
 - **OpenAI Integration**: Utilizes OpenAI's natural language processing capabilities for conversational interactions.
