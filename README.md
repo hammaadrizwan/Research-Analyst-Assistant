@@ -19,3 +19,6 @@ This tool is designed to enhance the workflow of research analysts in the financ
 
 ## Dashboard:
 <img src="Dashboard.png">
+
+## High-Level Diagram:
+<img src="Diagram.png">
